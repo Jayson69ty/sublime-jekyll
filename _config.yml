@@ -11,3 +11,5 @@ github_username:  23maverick23
 markdown: kramdown
 sass:
   sass_dir: _sass
+
+theme: jekyll-theme-slate
